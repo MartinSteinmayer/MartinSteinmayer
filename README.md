@@ -2,8 +2,8 @@
 
 <div>    
 <a href="github.com/MartinSteinmayer">      
-<img height= "167em" src="https://github-readme-stats.vercel.app/api?username=MartinSteinmayer&show_icons=true&theme=github_dark%22/%3E      
-<img height= "167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSteinmayer&layout=compact&theme=github_dark%22/%3E      
+<img height= "167em" src="https://github-readme-stats.vercel.app/api?username=MartinSteinmayer&show_icons=true&theme=github_dark%22/%3E>      
+<img height= "167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSteinmayer&layout=compact&theme=github_dark%22/%3E>      
 </div>
 
 
